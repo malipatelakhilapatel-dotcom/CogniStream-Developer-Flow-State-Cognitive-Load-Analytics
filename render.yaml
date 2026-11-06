@@ -1,0 +1,50 @@
+# Render Blueprint Specification for CogniStream
+# Documentation: https://render.com/docs/blueprint-spec
+
+services:
+  # -------------------------------------------------------------
+  # CogniStream Backend REST API (FastAPI)
+  # -------------------------------------------------------------
+  - type: web
+    name: cognistream-backend
+    runtime: python
+    plan: free
+    rootDir: CogniStream
+    buildCommand: pip install -r backend/requirements.txt
+    startCommand: python -m uvicorn backend.app.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /api/health
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+      - key: PYTHONPATH
+        value: .
+      - key: COGNISTREAM_ENV
+        value: production
+      - key: CORS_ORIGINS
+        value: "*"
+      - key: CLICKHOUSE_HOST
+        value: localhost
+      - key: CLICKHOUSE_PORT
+        value: 8123
+
+  # -------------------------------------------------------------
+  # CogniStream Frontend Dashboard (React + Vite)
+  # -------------------------------------------------------------
+  - type: web
+    name: cognistream-frontend
+    runtime: static
+    plan: free
+    rootDir: CogniStream/frontend
+    buildCommand: npm install && npm run build
+    staticPublishPath: dist
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
+    envVars:
+      - key: NODE_VERSION
+        value: 20.12.0
+      - key: VITE_API_BASE_URL
+        # Replace with your actual backend URL once deployed, or set in Render Dashboard
+        value: https://cognistream-backend.onrender.com/api
+
