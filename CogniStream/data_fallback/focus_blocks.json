@@ -39,20 +39,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-128",
-    "actor_id": "dev-maya",
-    "team_id": "team-platform",
-    "project_id": "proj-service-mesh",
-    "start_timestamp": "2026-09-25T09:17:00+00:00",
-    "end_timestamp": "2026-09-25T09:50:55.705772+00:00",
-    "duration_minutes": 33.93,
-    "interruption_count": 1,
-    "is_qualifying": 0,
-    "qualification_status": "non_qualifying",
-    "calculation_version": "v1.0.0"
-  },
-  {
-    "focus_block_id": "fb-dev-ananya-170",
+    "focus_block_id": "fb-dev-ananya-128",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-dbt-models",
@@ -65,20 +52,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-212",
-    "actor_id": "dev-alex",
-    "team_id": "team-platform",
-    "project_id": "proj-observability",
-    "start_timestamp": "2026-09-25T09:17:00+00:00",
-    "end_timestamp": "2026-09-25T10:45:59.696374+00:00",
-    "duration_minutes": 88.99,
-    "interruption_count": 1,
-    "is_qualifying": 0,
-    "qualification_status": "non_qualifying",
-    "calculation_version": "v1.0.0"
-  },
-  {
-    "focus_block_id": "fb-dev-zoe-256",
+    "focus_block_id": "fb-dev-zoe-170",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-customer-dashboard",
@@ -86,6 +60,32 @@
     "end_timestamp": "2026-09-25T10:08:28.652863+00:00",
     "duration_minutes": 51.48,
     "interruption_count": 2,
+    "is_qualifying": 0,
+    "qualification_status": "non_qualifying",
+    "calculation_version": "v1.0.0"
+  },
+  {
+    "focus_block_id": "fb-dev-maya-215",
+    "actor_id": "dev-maya",
+    "team_id": "team-platform",
+    "project_id": "proj-service-mesh",
+    "start_timestamp": "2026-09-25T09:17:00+00:00",
+    "end_timestamp": "2026-09-25T09:50:55.705772+00:00",
+    "duration_minutes": 33.93,
+    "interruption_count": 1,
+    "is_qualifying": 0,
+    "qualification_status": "non_qualifying",
+    "calculation_version": "v1.0.0"
+  },
+  {
+    "focus_block_id": "fb-dev-alex-257",
+    "actor_id": "dev-alex",
+    "team_id": "team-platform",
+    "project_id": "proj-observability",
+    "start_timestamp": "2026-09-25T09:17:00+00:00",
+    "end_timestamp": "2026-09-25T10:45:59.696374+00:00",
+    "duration_minutes": 88.99,
+    "interruption_count": 1,
     "is_qualifying": 0,
     "qualification_status": "non_qualifying",
     "calculation_version": "v1.0.0"
@@ -143,7 +143,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-129",
+    "focus_block_id": "fb-dev-maya-216",
     "actor_id": "dev-maya",
     "team_id": "team-platform",
     "project_id": "proj-service-mesh",
@@ -169,7 +169,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-257",
+    "focus_block_id": "fb-dev-zoe-171",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-customer-dashboard",
@@ -208,7 +208,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-213",
+    "focus_block_id": "fb-dev-alex-258",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-observability",
@@ -247,7 +247,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-ananya-171",
+    "focus_block_id": "fb-dev-ananya-129",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-dbt-models",
@@ -338,7 +338,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-ananya-172",
+    "focus_block_id": "fb-dev-ananya-130",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-lakehouse-etl",
@@ -377,7 +377,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-130",
+    "focus_block_id": "fb-dev-maya-217",
     "actor_id": "dev-maya",
     "team_id": "team-platform",
     "project_id": "proj-observability",
@@ -390,7 +390,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-258",
+    "focus_block_id": "fb-dev-zoe-172",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-checkout-flow",
@@ -481,7 +481,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-214",
+    "focus_block_id": "fb-dev-alex-259",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-auth-v2",
@@ -494,7 +494,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-259",
+    "focus_block_id": "fb-dev-zoe-173",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-checkout-flow",
@@ -507,7 +507,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-131",
+    "focus_block_id": "fb-dev-maya-218",
     "actor_id": "dev-maya",
     "team_id": "team-platform",
     "project_id": "proj-observability",
@@ -546,7 +546,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-ananya-173",
+    "focus_block_id": "fb-dev-ananya-131",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-lakehouse-etl",
@@ -611,7 +611,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-215",
+    "focus_block_id": "fb-dev-alex-260",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-auth-v2",
@@ -715,7 +715,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-260",
+    "focus_block_id": "fb-dev-zoe-174",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-billing-portal",
@@ -741,7 +741,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-ananya-174",
+    "focus_block_id": "fb-dev-ananya-132",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-dbt-models",
@@ -754,7 +754,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-132",
+    "focus_block_id": "fb-dev-maya-219",
     "actor_id": "dev-maya",
     "team_id": "team-platform",
     "project_id": "proj-service-mesh",
@@ -780,7 +780,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-216",
+    "focus_block_id": "fb-dev-alex-261",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-service-mesh",
@@ -806,7 +806,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-261",
+    "focus_block_id": "fb-dev-zoe-175",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-billing-portal",
@@ -858,7 +858,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-133",
+    "focus_block_id": "fb-dev-maya-220",
     "actor_id": "dev-maya",
     "team_id": "team-platform",
     "project_id": "proj-service-mesh",
@@ -897,7 +897,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-217",
+    "focus_block_id": "fb-dev-alex-262",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-service-mesh",
@@ -936,7 +936,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-ananya-175",
+    "focus_block_id": "fb-dev-ananya-133",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-dbt-models",
@@ -988,7 +988,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-134",
+    "focus_block_id": "fb-dev-maya-221",
     "actor_id": "dev-maya",
     "team_id": "team-platform",
     "project_id": "proj-auth-v2",
@@ -1014,7 +1014,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-218",
+    "focus_block_id": "fb-dev-alex-263",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-service-mesh",
@@ -1027,7 +1027,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-ananya-176",
+    "focus_block_id": "fb-dev-ananya-134",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-stream-pipeline",
@@ -1079,7 +1079,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-262",
+    "focus_block_id": "fb-dev-zoe-176",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-checkout-flow",
@@ -1105,7 +1105,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-135",
+    "focus_block_id": "fb-dev-maya-222",
     "actor_id": "dev-maya",
     "team_id": "team-platform",
     "project_id": "proj-auth-v2",
@@ -1144,7 +1144,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-ananya-177",
+    "focus_block_id": "fb-dev-ananya-135",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-stream-pipeline",
@@ -1157,7 +1157,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-219",
+    "focus_block_id": "fb-dev-alex-264",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-service-mesh",
@@ -1183,7 +1183,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-263",
+    "focus_block_id": "fb-dev-zoe-177",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-checkout-flow",
@@ -1300,7 +1300,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-220",
+    "focus_block_id": "fb-dev-alex-265",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-auth-v2",
@@ -1378,7 +1378,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-136",
+    "focus_block_id": "fb-dev-maya-223",
     "actor_id": "dev-maya",
     "team_id": "team-platform",
     "project_id": "proj-service-mesh",
@@ -1404,7 +1404,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-264",
+    "focus_block_id": "fb-dev-zoe-178",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-checkout-flow",
@@ -1417,7 +1417,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-ananya-178",
+    "focus_block_id": "fb-dev-ananya-136",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-stream-pipeline",
@@ -1443,7 +1443,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-221",
+    "focus_block_id": "fb-dev-alex-266",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-auth-v2",
@@ -1495,7 +1495,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-265",
+    "focus_block_id": "fb-dev-zoe-179",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-checkout-flow",
@@ -1508,7 +1508,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-137",
+    "focus_block_id": "fb-dev-maya-224",
     "actor_id": "dev-maya",
     "team_id": "team-platform",
     "project_id": "proj-service-mesh",
@@ -1573,7 +1573,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-ananya-179",
+    "focus_block_id": "fb-dev-ananya-137",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-stream-pipeline",
@@ -1638,7 +1638,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-222",
+    "focus_block_id": "fb-dev-alex-267",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-observability",
@@ -1664,7 +1664,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-266",
+    "focus_block_id": "fb-dev-zoe-180",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-billing-portal",
@@ -1677,7 +1677,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-ananya-180",
+    "focus_block_id": "fb-dev-ananya-138",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-stream-pipeline",
@@ -1703,7 +1703,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-138",
+    "focus_block_id": "fb-dev-maya-225",
     "actor_id": "dev-maya",
     "team_id": "team-platform",
     "project_id": "proj-observability",
@@ -1768,7 +1768,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-267",
+    "focus_block_id": "fb-dev-zoe-181",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-billing-portal",
@@ -1794,7 +1794,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-139",
+    "focus_block_id": "fb-dev-maya-226",
     "actor_id": "dev-maya",
     "team_id": "team-platform",
     "project_id": "proj-observability",
@@ -1833,7 +1833,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-ananya-181",
+    "focus_block_id": "fb-dev-ananya-139",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-stream-pipeline",
@@ -1846,7 +1846,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-223",
+    "focus_block_id": "fb-dev-alex-268",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-observability",
@@ -1898,7 +1898,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-224",
+    "focus_block_id": "fb-dev-alex-269",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-k8s-infra",
@@ -1963,7 +1963,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-ananya-182",
+    "focus_block_id": "fb-dev-ananya-140",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-stream-pipeline",
@@ -1989,7 +1989,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-268",
+    "focus_block_id": "fb-dev-zoe-182",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-checkout-flow",
@@ -2041,7 +2041,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-225",
+    "focus_block_id": "fb-dev-alex-270",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-auth-v2",
@@ -2054,7 +2054,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-140",
+    "focus_block_id": "fb-dev-maya-227",
     "actor_id": "dev-maya",
     "team_id": "team-platform",
     "project_id": "proj-k8s-infra",
@@ -2080,7 +2080,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-269",
+    "focus_block_id": "fb-dev-zoe-183",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-checkout-flow",
@@ -2132,7 +2132,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-ananya-183",
+    "focus_block_id": "fb-dev-ananya-141",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-stream-pipeline",
@@ -2145,7 +2145,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-141",
+    "focus_block_id": "fb-dev-maya-228",
     "actor_id": "dev-maya",
     "team_id": "team-platform",
     "project_id": "proj-k8s-infra",
@@ -2210,7 +2210,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-226",
+    "focus_block_id": "fb-dev-alex-271",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-auth-v2",
@@ -2236,7 +2236,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-ananya-184",
+    "focus_block_id": "fb-dev-ananya-142",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-lakehouse-etl",
@@ -2288,7 +2288,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-270",
+    "focus_block_id": "fb-dev-zoe-184",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-checkout-flow",
@@ -2301,7 +2301,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-142",
+    "focus_block_id": "fb-dev-maya-229",
     "actor_id": "dev-maya",
     "team_id": "team-platform",
     "project_id": "proj-auth-v2",
@@ -2314,7 +2314,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-227",
+    "focus_block_id": "fb-dev-alex-272",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-auth-v2",
@@ -2392,7 +2392,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-271",
+    "focus_block_id": "fb-dev-zoe-185",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-checkout-flow",
@@ -2405,7 +2405,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-143",
+    "focus_block_id": "fb-dev-maya-230",
     "actor_id": "dev-maya",
     "team_id": "team-platform",
     "project_id": "proj-auth-v2",
@@ -2431,7 +2431,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-ananya-185",
+    "focus_block_id": "fb-dev-ananya-143",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-lakehouse-etl",
@@ -2496,7 +2496,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-228",
+    "focus_block_id": "fb-dev-alex-273",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-auth-v2",
@@ -2561,7 +2561,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-229",
+    "focus_block_id": "fb-dev-alex-274",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-k8s-infra",
@@ -2626,7 +2626,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-272",
+    "focus_block_id": "fb-dev-zoe-186",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-billing-portal",
@@ -2652,7 +2652,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-144",
+    "focus_block_id": "fb-dev-maya-231",
     "actor_id": "dev-maya",
     "team_id": "team-platform",
     "project_id": "proj-service-mesh",
@@ -2678,7 +2678,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-ananya-186",
+    "focus_block_id": "fb-dev-ananya-144",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-stream-pipeline",
@@ -2691,7 +2691,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-273",
+    "focus_block_id": "fb-dev-zoe-187",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-billing-portal",
@@ -2717,7 +2717,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-230",
+    "focus_block_id": "fb-dev-alex-275",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-k8s-infra",
@@ -2808,7 +2808,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-145",
+    "focus_block_id": "fb-dev-maya-232",
     "actor_id": "dev-maya",
     "team_id": "team-platform",
     "project_id": "proj-service-mesh",
@@ -2821,7 +2821,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-ananya-187",
+    "focus_block_id": "fb-dev-ananya-145",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-stream-pipeline",
@@ -2873,7 +2873,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-146",
+    "focus_block_id": "fb-dev-maya-233",
     "actor_id": "dev-maya",
     "team_id": "team-platform",
     "project_id": "proj-k8s-infra",
@@ -2925,7 +2925,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-231",
+    "focus_block_id": "fb-dev-alex-276",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-k8s-infra",
@@ -2938,7 +2938,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-ananya-188",
+    "focus_block_id": "fb-dev-ananya-146",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-dbt-models",
@@ -2977,7 +2977,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-274",
+    "focus_block_id": "fb-dev-zoe-188",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-billing-portal",
@@ -3003,7 +3003,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-147",
+    "focus_block_id": "fb-dev-maya-234",
     "actor_id": "dev-maya",
     "team_id": "team-platform",
     "project_id": "proj-k8s-infra",
@@ -3068,7 +3068,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-275",
+    "focus_block_id": "fb-dev-zoe-189",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-billing-portal",
@@ -3081,7 +3081,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-ananya-189",
+    "focus_block_id": "fb-dev-ananya-147",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-dbt-models",
@@ -3094,7 +3094,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-232",
+    "focus_block_id": "fb-dev-alex-277",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-k8s-infra",
@@ -3211,7 +3211,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-276",
+    "focus_block_id": "fb-dev-zoe-190",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-billing-portal",
@@ -3276,7 +3276,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-148",
+    "focus_block_id": "fb-dev-maya-235",
     "actor_id": "dev-maya",
     "team_id": "team-platform",
     "project_id": "proj-auth-v2",
@@ -3289,7 +3289,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-233",
+    "focus_block_id": "fb-dev-alex-278",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-k8s-infra",
@@ -3302,7 +3302,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-ananya-190",
+    "focus_block_id": "fb-dev-ananya-148",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-lakehouse-etl",
@@ -3315,7 +3315,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-277",
+    "focus_block_id": "fb-dev-zoe-191",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-billing-portal",
@@ -3367,7 +3367,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-149",
+    "focus_block_id": "fb-dev-maya-236",
     "actor_id": "dev-maya",
     "team_id": "team-platform",
     "project_id": "proj-auth-v2",
@@ -3419,7 +3419,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-234",
+    "focus_block_id": "fb-dev-alex-279",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-k8s-infra",
@@ -3458,7 +3458,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-ananya-191",
+    "focus_block_id": "fb-dev-ananya-149",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-lakehouse-etl",
@@ -3484,7 +3484,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-278",
+    "focus_block_id": "fb-dev-zoe-192",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-billing-portal",
@@ -3536,7 +3536,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-150",
+    "focus_block_id": "fb-dev-maya-237",
     "actor_id": "dev-maya",
     "team_id": "team-platform",
     "project_id": "proj-service-mesh",
@@ -3562,7 +3562,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-ananya-192",
+    "focus_block_id": "fb-dev-ananya-150",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-lakehouse-etl",
@@ -3601,7 +3601,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-235",
+    "focus_block_id": "fb-dev-alex-280",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-service-mesh",
@@ -3640,7 +3640,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-279",
+    "focus_block_id": "fb-dev-zoe-193",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-customer-dashboard",
@@ -3653,7 +3653,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-151",
+    "focus_block_id": "fb-dev-maya-238",
     "actor_id": "dev-maya",
     "team_id": "team-platform",
     "project_id": "proj-service-mesh",
@@ -3718,7 +3718,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-280",
+    "focus_block_id": "fb-dev-zoe-194",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-customer-dashboard",
@@ -3731,7 +3731,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-ananya-193",
+    "focus_block_id": "fb-dev-ananya-151",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-lakehouse-etl",
@@ -3757,7 +3757,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-236",
+    "focus_block_id": "fb-dev-alex-281",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-service-mesh",
@@ -3835,7 +3835,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-152",
+    "focus_block_id": "fb-dev-maya-239",
     "actor_id": "dev-maya",
     "team_id": "team-platform",
     "project_id": "proj-observability",
@@ -3874,7 +3874,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-ananya-194",
+    "focus_block_id": "fb-dev-ananya-152",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-dbt-models",
@@ -3939,20 +3939,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-237",
-    "actor_id": "dev-alex",
-    "team_id": "team-platform",
-    "project_id": "proj-observability",
-    "start_timestamp": "2026-10-13T10:44:00+00:00",
-    "end_timestamp": "2026-10-13T12:45:56.935757+00:00",
-    "duration_minutes": 121.95,
-    "interruption_count": 2,
-    "is_qualifying": 1,
-    "qualification_status": "qualifying",
-    "calculation_version": "v1.0.0"
-  },
-  {
-    "focus_block_id": "fb-dev-zoe-281",
+    "focus_block_id": "fb-dev-zoe-195",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-checkout-flow",
@@ -3965,7 +3952,20 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-153",
+    "focus_block_id": "fb-dev-alex-282",
+    "actor_id": "dev-alex",
+    "team_id": "team-platform",
+    "project_id": "proj-observability",
+    "start_timestamp": "2026-10-13T10:44:00+00:00",
+    "end_timestamp": "2026-10-13T12:45:56.935757+00:00",
+    "duration_minutes": 121.95,
+    "interruption_count": 2,
+    "is_qualifying": 1,
+    "qualification_status": "qualifying",
+    "calculation_version": "v1.0.0"
+  },
+  {
+    "focus_block_id": "fb-dev-maya-240",
     "actor_id": "dev-maya",
     "team_id": "team-platform",
     "project_id": "proj-observability",
@@ -4017,7 +4017,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-282",
+    "focus_block_id": "fb-dev-zoe-196",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-checkout-flow",
@@ -4056,7 +4056,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-ananya-195",
+    "focus_block_id": "fb-dev-ananya-153",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-dbt-models",
@@ -4108,7 +4108,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-238",
+    "focus_block_id": "fb-dev-alex-283",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-observability",
@@ -4173,7 +4173,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-283",
+    "focus_block_id": "fb-dev-zoe-197",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-billing-portal",
@@ -4212,7 +4212,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-239",
+    "focus_block_id": "fb-dev-alex-284",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-k8s-infra",
@@ -4225,7 +4225,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-ananya-196",
+    "focus_block_id": "fb-dev-ananya-154",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-lakehouse-etl",
@@ -4251,7 +4251,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-154",
+    "focus_block_id": "fb-dev-maya-241",
     "actor_id": "dev-maya",
     "team_id": "team-platform",
     "project_id": "proj-auth-v2",
@@ -4303,7 +4303,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-284",
+    "focus_block_id": "fb-dev-zoe-198",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-billing-portal",
@@ -4329,7 +4329,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-ananya-197",
+    "focus_block_id": "fb-dev-ananya-155",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-lakehouse-etl",
@@ -4342,7 +4342,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-155",
+    "focus_block_id": "fb-dev-maya-242",
     "actor_id": "dev-maya",
     "team_id": "team-platform",
     "project_id": "proj-auth-v2",
@@ -4355,7 +4355,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-240",
+    "focus_block_id": "fb-dev-alex-285",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-k8s-infra",
@@ -4485,7 +4485,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-285",
+    "focus_block_id": "fb-dev-zoe-199",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-billing-portal",
@@ -4498,7 +4498,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-ananya-198",
+    "focus_block_id": "fb-dev-ananya-156",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-lakehouse-etl",
@@ -4550,7 +4550,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-156",
+    "focus_block_id": "fb-dev-maya-243",
     "actor_id": "dev-maya",
     "team_id": "team-platform",
     "project_id": "proj-k8s-infra",
@@ -4563,7 +4563,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-241",
+    "focus_block_id": "fb-dev-alex-286",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-auth-v2",
@@ -4615,7 +4615,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-286",
+    "focus_block_id": "fb-dev-zoe-200",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-billing-portal",
@@ -4641,7 +4641,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-ananya-199",
+    "focus_block_id": "fb-dev-ananya-157",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-lakehouse-etl",
@@ -4667,7 +4667,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-157",
+    "focus_block_id": "fb-dev-maya-244",
     "actor_id": "dev-maya",
     "team_id": "team-platform",
     "project_id": "proj-k8s-infra",
@@ -4719,7 +4719,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-242",
+    "focus_block_id": "fb-dev-alex-287",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-auth-v2",
@@ -4771,7 +4771,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-158",
+    "focus_block_id": "fb-dev-maya-245",
     "actor_id": "dev-maya",
     "team_id": "team-platform",
     "project_id": "proj-service-mesh",
@@ -4784,7 +4784,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-ananya-200",
+    "focus_block_id": "fb-dev-ananya-158",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-lakehouse-etl",
@@ -4797,7 +4797,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-287",
+    "focus_block_id": "fb-dev-zoe-201",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-checkout-flow",
@@ -4888,7 +4888,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-243",
+    "focus_block_id": "fb-dev-alex-288",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-auth-v2",
@@ -4901,7 +4901,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-159",
+    "focus_block_id": "fb-dev-maya-246",
     "actor_id": "dev-maya",
     "team_id": "team-platform",
     "project_id": "proj-service-mesh",
@@ -4914,7 +4914,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-288",
+    "focus_block_id": "fb-dev-zoe-202",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-checkout-flow",
@@ -4953,7 +4953,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-ananya-201",
+    "focus_block_id": "fb-dev-ananya-159",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-lakehouse-etl",
@@ -5031,7 +5031,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-244",
+    "focus_block_id": "fb-dev-alex-289",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-auth-v2",
@@ -5057,7 +5057,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-245",
+    "focus_block_id": "fb-dev-alex-290",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-k8s-infra",
@@ -5109,7 +5109,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-ananya-202",
+    "focus_block_id": "fb-dev-ananya-160",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-lakehouse-etl",
@@ -5187,7 +5187,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-160",
+    "focus_block_id": "fb-dev-maya-247",
     "actor_id": "dev-maya",
     "team_id": "team-platform",
     "project_id": "proj-k8s-infra",
@@ -5200,7 +5200,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-289",
+    "focus_block_id": "fb-dev-zoe-203",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-customer-dashboard",
@@ -5213,7 +5213,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-246",
+    "focus_block_id": "fb-dev-alex-291",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-k8s-infra",
@@ -5265,7 +5265,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-ananya-203",
+    "focus_block_id": "fb-dev-ananya-161",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-lakehouse-etl",
@@ -5278,7 +5278,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-290",
+    "focus_block_id": "fb-dev-zoe-204",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-customer-dashboard",
@@ -5304,7 +5304,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-161",
+    "focus_block_id": "fb-dev-maya-248",
     "actor_id": "dev-maya",
     "team_id": "team-platform",
     "project_id": "proj-k8s-infra",
@@ -5356,7 +5356,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-247",
+    "focus_block_id": "fb-dev-alex-292",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-k8s-infra",
@@ -5421,7 +5421,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-248",
+    "focus_block_id": "fb-dev-alex-293",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-observability",
@@ -5434,7 +5434,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-291",
+    "focus_block_id": "fb-dev-zoe-205",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-billing-portal",
@@ -5447,7 +5447,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-162",
+    "focus_block_id": "fb-dev-maya-249",
     "actor_id": "dev-maya",
     "team_id": "team-platform",
     "project_id": "proj-service-mesh",
@@ -5460,7 +5460,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-ananya-204",
+    "focus_block_id": "fb-dev-ananya-162",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-stream-pipeline",
@@ -5564,7 +5564,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-163",
+    "focus_block_id": "fb-dev-maya-250",
     "actor_id": "dev-maya",
     "team_id": "team-platform",
     "project_id": "proj-service-mesh",
@@ -5577,7 +5577,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-292",
+    "focus_block_id": "fb-dev-zoe-206",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-billing-portal",
@@ -5629,7 +5629,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-249",
+    "focus_block_id": "fb-dev-alex-294",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-observability",
@@ -5642,7 +5642,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-ananya-205",
+    "focus_block_id": "fb-dev-ananya-163",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-stream-pipeline",
@@ -5785,7 +5785,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-ananya-206",
+    "focus_block_id": "fb-dev-ananya-164",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-dbt-models",
@@ -5811,7 +5811,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-250",
+    "focus_block_id": "fb-dev-alex-295",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-auth-v2",
@@ -5837,7 +5837,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-164",
+    "focus_block_id": "fb-dev-maya-251",
     "actor_id": "dev-maya",
     "team_id": "team-platform",
     "project_id": "proj-service-mesh",
@@ -5850,7 +5850,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-293",
+    "focus_block_id": "fb-dev-zoe-207",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-customer-dashboard",
@@ -5915,7 +5915,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-ananya-207",
+    "focus_block_id": "fb-dev-ananya-165",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-dbt-models",
@@ -5954,7 +5954,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-165",
+    "focus_block_id": "fb-dev-maya-252",
     "actor_id": "dev-maya",
     "team_id": "team-platform",
     "project_id": "proj-service-mesh",
@@ -5967,7 +5967,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-294",
+    "focus_block_id": "fb-dev-zoe-208",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-customer-dashboard",
@@ -5993,7 +5993,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-251",
+    "focus_block_id": "fb-dev-alex-296",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-auth-v2",
@@ -6110,7 +6110,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-252",
+    "focus_block_id": "fb-dev-alex-297",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-observability",
@@ -6136,7 +6136,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-ananya-208",
+    "focus_block_id": "fb-dev-ananya-166",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-lakehouse-etl",
@@ -6149,7 +6149,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-295",
+    "focus_block_id": "fb-dev-zoe-209",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-checkout-flow",
@@ -6175,7 +6175,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-166",
+    "focus_block_id": "fb-dev-maya-253",
     "actor_id": "dev-maya",
     "team_id": "team-platform",
     "project_id": "proj-observability",
@@ -6266,7 +6266,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-253",
+    "focus_block_id": "fb-dev-alex-298",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-observability",
@@ -6279,7 +6279,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-167",
+    "focus_block_id": "fb-dev-maya-254",
     "actor_id": "dev-maya",
     "team_id": "team-platform",
     "project_id": "proj-observability",
@@ -6292,7 +6292,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-296",
+    "focus_block_id": "fb-dev-zoe-210",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-checkout-flow",
@@ -6318,7 +6318,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-ananya-209",
+    "focus_block_id": "fb-dev-ananya-167",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-lakehouse-etl",
@@ -6409,7 +6409,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-254",
+    "focus_block_id": "fb-dev-alex-299",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-k8s-infra",
@@ -6435,7 +6435,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-297",
+    "focus_block_id": "fb-dev-zoe-211",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-checkout-flow",
@@ -6474,7 +6474,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-168",
+    "focus_block_id": "fb-dev-maya-255",
     "actor_id": "dev-maya",
     "team_id": "team-platform",
     "project_id": "proj-service-mesh",
@@ -6487,7 +6487,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-ananya-210",
+    "focus_block_id": "fb-dev-ananya-168",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-lakehouse-etl",
@@ -6539,7 +6539,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-alex-255",
+    "focus_block_id": "fb-dev-alex-300",
     "actor_id": "dev-alex",
     "team_id": "team-platform",
     "project_id": "proj-k8s-infra",
@@ -6578,7 +6578,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-298",
+    "focus_block_id": "fb-dev-zoe-212",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-checkout-flow",
@@ -6591,7 +6591,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-maya-169",
+    "focus_block_id": "fb-dev-maya-256",
     "actor_id": "dev-maya",
     "team_id": "team-platform",
     "project_id": "proj-service-mesh",
@@ -6643,7 +6643,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-ananya-211",
+    "focus_block_id": "fb-dev-ananya-169",
     "actor_id": "dev-ananya",
     "team_id": "team-data",
     "project_id": "proj-lakehouse-etl",
@@ -6656,7 +6656,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-299",
+    "focus_block_id": "fb-dev-zoe-213",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-customer-dashboard",
@@ -6669,7 +6669,7 @@
     "calculation_version": "v1.0.0"
   },
   {
-    "focus_block_id": "fb-dev-zoe-300",
+    "focus_block_id": "fb-dev-zoe-214",
     "actor_id": "dev-zoe",
     "team_id": "team-product",
     "project_id": "proj-customer-dashboard",
